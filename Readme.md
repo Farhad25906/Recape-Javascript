@@ -24,7 +24,7 @@ A complete **Basic → Advanced JavaScript roadmap** with **daily topics + probl
 
 ---
 
-## 🟢 Day 1 – Variables & Data Types
+## 🟢 Segment 1 – Variables & Data Types
 ### Topics
 - `var`, `let`, `const`
 - Primitive vs Reference
@@ -39,7 +39,7 @@ A complete **Basic → Advanced JavaScript roadmap** with **daily topics + probl
 
 ---
 
-## 🟢 Day 2 – Operators & Conditions
+## 🟢 Segment 2 – Operators & Conditions
 ### Topics
 - Arithmetic & comparison operators
 - `==` vs `===`
@@ -55,7 +55,7 @@ A complete **Basic → Advanced JavaScript roadmap** with **daily topics + probl
 
 ---
 
-## 🟢 Day 3 – Loops
+## 🟢 Segment 3 – Loops
 ### Topics
 - `for`, `while`, `do while`
 - `break`, `continue`
@@ -69,7 +69,7 @@ A complete **Basic → Advanced JavaScript roadmap** with **daily topics + probl
 
 ---
 
-## 🟢 Day 4 – Functions
+## 🟢 Segment 4 – Functions
 ### Topics
 - Function declaration & expression
 - Arrow functions
@@ -85,7 +85,7 @@ A complete **Basic → Advanced JavaScript roadmap** with **daily topics + probl
 
 ---
 
-## 🟢 Day 5 – Arrays (Important)
+## 🟢 Segment 5 – Arrays (Important)
 ### Topics
 - Array basics
 - Looping arrays
@@ -100,7 +100,7 @@ A complete **Basic → Advanced JavaScript roadmap** with **daily topics + probl
 
 ---
 
-## 🟢 Day 6 – Array Methods
+## 🟢 Segment 6 – Array Methods
 ### Topics
 - `map`, `filter`, `reduce`
 - `find`, `some`, `every`
@@ -114,7 +114,7 @@ A complete **Basic → Advanced JavaScript roadmap** with **daily topics + probl
 
 ---
 
-## 🟢 Day 7 – Objects
+## 🟢 Segment 7 – Objects
 ### Topics
 - Object creation
 - Dot vs bracket notation
@@ -130,7 +130,7 @@ A complete **Basic → Advanced JavaScript roadmap** with **daily topics + probl
 
 ---
 
-## 🟡 Day 8 – Strings
+## 🟡 Segment 8 – Strings
 ### Topics
 - String methods
 - Template literals
@@ -144,7 +144,7 @@ A complete **Basic → Advanced JavaScript roadmap** with **daily topics + probl
 
 ---
 
-## 🟡 Day 9 – Scope & Hoisting
+## 🟡 Segment 9 – Scope & Hoisting
 ### Topics
 - Global, local & block scope
 - Hoisting
@@ -159,7 +159,7 @@ A complete **Basic → Advanced JavaScript roadmap** with **daily topics + probl
 
 ---
 
-## 🟡 Day 10 – Closures
+## 🟡 Segment 10 – Closures
 ### Topics
 - Lexical scope
 - Closures
@@ -173,7 +173,7 @@ A complete **Basic → Advanced JavaScript roadmap** with **daily topics + probl
 
 ---
 
-## 🟡 Day 11 – this, call, apply, bind
+## 🟡 Segment 11 – this, call, apply, bind
 ### Topics
 - `this` keyword
 - Explicit binding
@@ -187,7 +187,7 @@ A complete **Basic → Advanced JavaScript roadmap** with **daily topics + probl
 
 ---
 
-## 🟡 Day 12 – Asynchronous JavaScript
+## 🟡 Segment 12 – Asynchronous JavaScript
 ### Topics
 - Sync vs Async
 - Callback
@@ -203,7 +203,7 @@ A complete **Basic → Advanced JavaScript roadmap** with **daily topics + probl
 
 ---
 
-## 🔴 Day 13 – Event Loop
+## 🔴 Segment 13 – Event Loop
 ### Topics
 - Call Stack
 - Web APIs
@@ -219,7 +219,7 @@ A complete **Basic → Advanced JavaScript roadmap** with **daily topics + probl
 
 ---
 
-## 🔴 Day 14 – Error Handling
+## 🔴 Segment 14 – Error Handling
 ### Topics
 - try/catch
 - throw error
@@ -235,7 +235,7 @@ A complete **Basic → Advanced JavaScript roadmap** with **daily topics + probl
 
 ---
 
-## 🔴 Day 15 – Interview Master Day
+## 🔴 Segment 15 – Interview Master Day
 ### Topics
 - Full revision
 - Optimization
